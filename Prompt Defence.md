@@ -38,7 +38,7 @@ Common attack techniques include:
 * Prompt obfuscation
 * Indirect prompt injection
 
-## Key Insight
+## Key Insights
 
 Prompt security cannot currently be solved through traditional patching approaches.
 
