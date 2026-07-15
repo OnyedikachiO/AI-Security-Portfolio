@@ -95,7 +95,7 @@ The project focused on implementing multiple layers of defense capable of detect
 
 ---
 
-# Project 1 — Secure Model Serialization
+# Secure Model Serialization
 
 ## Background
 
@@ -206,7 +206,7 @@ safe_weights = load_file(
 
 ---
 
-# Project 2 — Model Integrity & Provenance Verification
+# Model Integrity & Provenance Verification
 
 ## Background
 
@@ -354,7 +354,7 @@ model_review_v2.pkl
 
 ---
 
-# Project 3 — Behavioral Analysis of Malicious Models
+# Behavioral Analysis of Malicious Models
 
 ## Background
 
@@ -456,7 +456,7 @@ SentimentModel
 
 ---
 
-# Project 4 — Static Malware Analysis of Machine Learning Models
+# Static Malware Analysis of Machine Learning Models
 
 ## Objective
 
