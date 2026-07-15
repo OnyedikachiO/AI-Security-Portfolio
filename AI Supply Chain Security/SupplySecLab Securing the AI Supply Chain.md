@@ -1,14 +1,7 @@
-# SupplySecLab: Securing the AI Supply Chain (Part 1)
+# SupplySecLab: Securing the AI Supply Chain
 
 > End-to-end AI Supply Chain Security project demonstrating secure model intake, provenance verification, integrity validation, static malware analysis, and secure serialization techniques for machine learning deployments.
 
----
-
-## Disclaimer
-
-This project was completed in an **authorized cybersecurity training environment** designed to simulate real-world AI supply chain attacks against machine learning pipelines.
-
-No production systems or third-party infrastructure were targeted.
 
 ---
 
@@ -598,8 +591,15 @@ from
 ---
 
 
-
-
 # Outcome
 
 Successfully designed and implemented the first phase of an enterprise AI supply chain security pipeline capable of preventing malicious machine learning models from entering production through secure serialization, integrity validation, provenance verification, behavioral telemetry, and static malware analysis.
+
+
+---
+
+## Disclaimer
+
+This project was completed in an **authorized cybersecurity training environment** designed to simulate real-world AI supply chain attacks against machine learning pipelines.
+
+No production systems or third-party infrastructure were targeted.
