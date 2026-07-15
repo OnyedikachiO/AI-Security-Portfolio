@@ -110,7 +110,7 @@ Production Decision
 
 ---
 
-# Project 5 — Architecture-Level Threat Detection
+# Architecture-Level Threat Detection
 
 ## Background
 
@@ -252,7 +252,7 @@ manipulate_output
 
 ---
 
-# Project 6 — Static Architecture Security Scanning
+# Static Architecture Security Scanning
 
 ## Objective
 
@@ -326,7 +326,7 @@ Successfully differentiated legitimate neural network layers from potentially ma
 
 ---
 
-# Project 7 — Dependency Auditing & SBOM Generation
+# Dependency Auditing & SBOM Generation
 
 ## Background
 
@@ -447,7 +447,7 @@ Created complete software inventory enabling:
 
 ---
 
-# Project 8 — Third-Party AI Provider Assessment
+# Third-Party AI Provider Assessment
 
 ## Background
 
@@ -559,7 +559,7 @@ Confidentiality guardrails were also absent.
 
 ---
 
-# Project 9 — AI Supply Chain Incident Response
+# AI Supply Chain Incident Response
 
 ## Background
 
@@ -717,7 +717,7 @@ before approving replacement deployment.
 
 ---
 
-# Project 10 — Production Candidate Security Assessment
+# Production Candidate Security Assessment
 
 ## Background
 
